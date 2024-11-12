@@ -6,7 +6,6 @@ package com.mycompany.finding_min_max;
 
 import java.util.Scanner;
 
-//برنامه ای به زبان برنامه نویسی جاوا بنویسید که مینیمم و ماکزیمم عناصر موجود در یک آرایه را پیدا کند
 ///Maximum and minimum of an array
 public class Finding_Min_Max {
 
